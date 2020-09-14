@@ -135,8 +135,10 @@ a:hover {
 .d-bloc h4 a,
 .d-bloc h5 a,
 .d-bloc h6 a,
-.d-bloc p a {
-.fa fa-twitter : #202020;;
+.d-bloc p a 
+
+{
+.social: #202020;;
 }
 
 .d-bloc .a-btn:hover,
